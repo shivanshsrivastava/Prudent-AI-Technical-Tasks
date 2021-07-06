@@ -1,2 +1,6 @@
-This folder contains jupyter notebook code ans .xls filse for TECHNICAL ASSESSMENT Tasks
+This folder contains jupyter notebook code(.pynb) and excel(.xls) files for PRUDENT AI TECHNICAL ASSESSMENT TASK-2
+
+This folder contains -
+3 jupyter notebook code files (.pynb) which contains the code.
+3 excel files (.xls) which contains the results obtained.
 
