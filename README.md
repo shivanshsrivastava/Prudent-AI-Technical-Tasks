@@ -5,7 +5,8 @@ This repository contains-
 1 - Task 1 code file
 2 - Task 2 folder which contains all the required files for task 2
 
-Note: Task 3 is submitted via ZIP FILE SUBMISSION section in the Technical Assessment Task Submission form.
+Note1: Task 3 is submitted via ZIP FILE SUBMISSION section in the Technical Assessment Task Submission form.
+Note2: Kindly reload the files if you get 'Sorry, something is wrong' message.
 
 If you find any file missing or require more, please let me know -
 Name - SHIVANSH SRIVASTAVA
